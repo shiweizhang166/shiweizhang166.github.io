@@ -1,67 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>test</title>
-    <url>/2020/06/05/test/</url>
-    <content><![CDATA[<hr>
-<h2 id="测试文档"><a href="#测试文档" class="headerlink" title="测试文档"></a>测试文档</h2><p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-<p>这是测试文档。</p>
-]]></content>
+    <title>环境安装与配置——node.js</title>
+    <url>/2020/08/03/%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE%E2%80%94%E2%80%94node.js/</url>
+    <content><![CDATA[]]></content>
+      <categories>
+        <category>环境安装与配置</category>
+      </categories>
+      <tags>
+        <tag>环境安装与配置</tag>
+        <tag>node.js</tag>
+      </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/06/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+    <title>Spring Boot项目实战（一） 开发环境搭建</title>
+    <url>/2020/07/19/Spring%20Boot%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%80%EF%BC%89%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<blockquote>
+<p>参考文章：</p>
+<p><a href="https://blog.csdn.net/qq_41378597/article/details/82154760" target="_blank" rel="noopener">Navicat连接MySql8+出现2059错误解决办法</a></p>
+<p><a href="https://blog.csdn.net/qq_20454875/article/details/106177841?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase" target="_blank" rel="noopener">【MySql安装配置 】及【navicat连接mysql出现2059错误】</a></p>
+</blockquote>
+<p>连接时出现2059错误，原因是mysql8之前的版本加密规则为mysql_native_password，但是在mysql8以后的加密规则为caching_sha2_password。</p>
+<p>解决办法有两种<br>1、更新navicat驱动来解决此问题，<br>2、将mysql用户登录的加密规则修改为mysql_native_password。</p>
+<p>建议采取第二种方式，步骤如下：</p>
+<ol>
+<li><p>win+r 输入cmd （原文说使用管理员权限打开，如果有错误可以尝试一下）<br>输入mysql -u root -p，然后输入密码；（提示mysql不是内部或外部命令需要配置环境变量，这类问题都是如此解决，环境变量一般是安装文件夹的bin目录）</p>
+</li>
+<li><p>登录成功以后使用ALTER USER ‘root’@’localhost’ IDENTIFIED BY ‘password’ PASSWORD EXPIRE NEVER;来修改加密规则<br>注意事项：‘root’@’localhost’ ，并不是‘root@localhost’，两对单引号，还有分号记得加。</p>
+</li>
+<li><p>加密规则修改完成后我们可以通过ALTER USER ‘root’@’localhost’ IDENTIFIED WITH mysql_native_password BY ‘123456’;更新一下我们用户的密码。<br>我没有进行这一步时直接报错，估计原因是原本密码还是以caching_sha2_password规则存储导致的错误。</p>
+</li>
+<li><p>刷新数据FLUSH PRIVILEGES;</p>
+<p>经过以上步骤，navicat连接数据库成功。</p>
+</li>
+</ol>
 ]]></content>
+      <categories>
+        <category>Spring Boot</category>
+      </categories>
+      <tags>
+        <tag>Spring Boot</tag>
+        <tag>MySQL</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo+GitHub静态博客搭建</title>
+    <url>/2020/06/04/Hexo+GitHub%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%80%EF%BC%89%20%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
+    <content><![CDATA[<!-- toc -->
+
+
+
+<!-- tocstop -->
+
+<ol>
+<li><p>准备工作<br> 1.1 安装nodejs<br> <a href="https://nodejs.cn/download/" target="_blank" rel="noopener">nodejs官网下载</a>，安装配置过程参考：<a href="https://www.cnblogs.com/liuqiyun/p/8133904.html" target="_blank" rel="noopener">Node.js安装及环境配置之Windows篇</a></p>
+<p>1.2 安装git<br> <a href="https://git-scm.com/download" target="_blank" rel="noopener">git官网下载</a>，安装配置过程参考：<a href="https://blog.csdn.net/huangqqdy/article/details/83032408" target="_blank" rel="noopener">Git下载、安装与环境配置</a><br>1.3 安装hexo</p>
+</li>
+<li><p>搭建过程<br>  2.1 创建github仓库</p>
+<pre><code>2.2 配置SSH key</code></pre></li>
+<li><p>使用说明</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>博客搭建</category>
+      </categories>
+      <tags>
+        <tag>博客搭建</tag>
+      </tags>
   </entry>
 </search>
